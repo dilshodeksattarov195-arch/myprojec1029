@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdync",
+        "uuid": 7505526,
+        "checksum": "ct6wz2"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
